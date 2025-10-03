@@ -1,4 +1,4 @@
-![photo_2025-10-03_18-22-55](https://github.com/user-attachments/assets/de658f2f-4b3b-4b50-bb7e-c0cab4886bce)<img width="1280" height="559" alt="image" src="https://github.com/user-attachments/assets/31e5cc86-3ef7-45f6-9b6f-69d878eec2b2" /># HA2Rusclimate
+# HA2Rusclimate
 Трансляция температуры из Home Assistant для "умных" конвекторов Rusclimate/Hommyn (Ballu, Electrolux)
 Создание "виртуального" датчика температуры на базе Home Assistant + подписка конвектора на "виртуальный" датчик температуры.
 
