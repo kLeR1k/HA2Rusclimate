@@ -1,5 +1,11 @@
 # HA2Rusclimate
-Трансляция температуры из Home Assistant для "умных" конвекторов Rusclimate/Hommyn (Ballu, Electrolux)
+Трансляция температуры из Home Assistant для "умных" конвекторов Rusclimate/Hommyn (Ballu, Electrolux).
+
+Работает с device_id, для которых в настройках Hommyn можно выбрать источник данных (пока протестировано только на устройствах с device_id = 46. Устройства с device_id = 47 не поддерживают такую функцию)
+
+<img width="239.7" height="402.9" alt="image" src="https://github.com/user-attachments/assets/9a48eadb-a6c1-4b90-9cf2-c0ee011db038" />
+
+
 Создание "виртуального" датчика температуры на базе Home Assistant + подписка конвектора на "виртуальный" датчик температуры.
 
 Для понимания того, как работает штатная подписка конвектора на термометр из экосистемы Rusclimate/Hommyn:
